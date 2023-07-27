@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Shows:
+# content of the current directory.
+
+for f in *; do
+    echo "$f" | cut -d '-' -f 2
+
+done
