@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# bash word having lines shows.
+# disable=SC2009 shell is checked.
+
+ps -aux | grep bash
