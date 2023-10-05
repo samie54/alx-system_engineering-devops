@@ -3,7 +3,7 @@ global
     maxconn 2048
     user    haproxy
     group   haproxy
-    tune.ssl.default-dh-param 2048.
+    tune.ssl.default-dh-param 2048
 
 defaults
     log     global
