@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-""" Query Reddit API function recursively"""
-
+"""Count it - a recursive function that queries the Reddit API"""
 import re
 import requests
 import sys
